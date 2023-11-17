@@ -1,0 +1,6 @@
+identify the categories of twisted cables and the coverage
+noise
+attenuation
+throughput
+entrance facility
+performing site survey
